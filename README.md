@@ -1,7 +1,7 @@
 # SafeMax (Неофициальный клиент) 🛡️
 
 [![Лицензия: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub](https://img.shields.io/github/license/твой-ник/твой-репозиторий)
+![GitHub](https://img.shields.io/github/license/codercodermster-hue/SafeMaxArchive)
 ![Статус](https://img.shields.io/badge/Статус-Неофициальный-red)
 
 ---
